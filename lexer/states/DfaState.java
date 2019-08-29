@@ -1,6 +1,6 @@
-package com.iqianjin.sms.utils.lexer.states;
+package lexer.states;
 
-import com.iqianjin.sms.utils.lexer.LexerContext;
+import lexer.LexerContext;
 
 public abstract class DfaState {
 
