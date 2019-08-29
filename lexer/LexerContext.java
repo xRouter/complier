@@ -1,7 +1,5 @@
-package com.iqianjin.sms.utils.lexer;
+package lexer;
 
-import com.iqianjin.commons.utils.StringUtil;
-import com.iqianjin.sms.utils.lexer.states.*;
 import org.springframework.util.Assert;
 
 import java.util.ArrayList;
