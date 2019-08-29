@@ -1,7 +1,4 @@
-package com.iqianjin.sms.utils.lexer;
-
-import com.iqianjin.commons.utils.JsonUtil;
-import com.iqianjin.commons.utils.StringUtil;
+package lexer;
 
 import java.util.List;
 
