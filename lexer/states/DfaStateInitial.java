@@ -1,8 +1,8 @@
-package com.iqianjin.sms.utils.lexer.states;
+package lexer.states;
 
-import com.iqianjin.sms.utils.lexer.DfaStateEnum;
-import com.iqianjin.sms.utils.lexer.LexerContext;
-import com.iqianjin.sms.utils.lexer.Token;
+import lexer.DfaStateEnum;
+import lexer.LexerContext;
+import lexer.Token;
 
 public class DfaStateInitial extends DfaState {
 
