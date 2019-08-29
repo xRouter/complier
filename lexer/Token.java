@@ -1,4 +1,4 @@
-package com.iqianjin.sms.utils.lexer;
+package lexer;
 
 public class Token {
 
